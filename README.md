@@ -1,13 +1,4 @@
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -22,16 +13,12 @@
   <h3 align="center">Food Business Website</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Restraurant business website I built
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
   </p>
 </p>
 
