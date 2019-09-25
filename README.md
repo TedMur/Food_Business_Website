@@ -13,6 +13,8 @@
     <br />
     <br />
     <a href="https://github.com/github_username/repo">View Demo</a>
+    <br />
+    Hosting webpage <a href="https://gist.github.com/TylerFisher/6127328">Click here<a>
   </p>
 </p>
 
