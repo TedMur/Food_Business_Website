@@ -7,14 +7,13 @@
   <h1 align="center">Food Business Website</h1>
 
   <p align="center">
-    Restaurant business website I built
+    This is a ongoing fictional restaurant website I built.
     <br />
     <a href="https://github.com/TedMur/Food_Business_website/blob/master/index.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://tedmur.github.io/Food_Business_website/">View Demo</a>
     <br />
-    Hosting webpage <a type="button" href="https://gist.github.com/TylerFisher/6127328">Click here<a>
   </p>
 </p>
 
