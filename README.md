@@ -35,10 +35,7 @@
 
 <img width="350" alt="project-screenshot" src="https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png">
 
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+This project is to show my understanding of HTML5, CSS3 and Bootstrap.
 
 
 ### Built With
@@ -62,15 +59,6 @@ If you want to get a local copy up and running follow these simple steps.
 ```sh
 git clone https://github.com/TedMur/Food_Business_website.git
 ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 <!-- CONTACT -->
 ## Contact
