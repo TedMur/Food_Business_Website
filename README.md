@@ -105,19 +105,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [https://twitter.com/Tad_Mur](https://twitter.com/Tad_Mur) - email
-
+Tatsuya Tad Murao - [https://twitter.com/Tad_Mur](https://twitter.com/Tad_Mur)
 Project Link: [https://github.com/TedMur](https://github.com/TedMur)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
 
 
 
