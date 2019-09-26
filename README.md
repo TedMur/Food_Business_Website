@@ -4,7 +4,7 @@
 
 
 
-  <h3 align="center">Food Business Website</h3>
+  <h2 align="center">Food Business Website</h2>
 
   <p align="center">
     Restraurant business website I built
