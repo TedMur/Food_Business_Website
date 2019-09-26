@@ -28,7 +28,6 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [Contact](#contact)
 
