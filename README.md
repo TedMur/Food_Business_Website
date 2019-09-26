@@ -26,14 +26,11 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -74,14 +71,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -94,21 +83,14 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Tatsuya Tad Murao - [https://twitter.com/Tad_Mur](https://twitter.com/Tad_Mur)
+Tatsuya Tad Murao 
+
+Twitter: [@Tad_Mur](https://twitter.com/Tad_Mur) 
+
 Project Link: [https://github.com/TedMur](https://github.com/TedMur)
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -127,4 +109,3 @@ Project Link: [https://github.com/TedMur](https://github.com/TedMur)
 [linkedin-url]: https://www.linkedin.com/in/tatsuya-tad-murao
 [product-screenshot]: images/screenshot.png
 
-Files within this repository is aiming to leverage knowledge from Data Analytics Boot Camp and to make it more practical than just "knowledge".
