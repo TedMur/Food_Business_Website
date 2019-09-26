@@ -35,7 +35,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png" align=rihgt>
+
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
