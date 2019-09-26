@@ -7,7 +7,7 @@
   <h1 align="center">Food Business Website</h1>
 
   <p align="center">
-    Restraurant business website I built
+    Restaurant business website I built
     <br />
     <a href="https://github.com/TedMur/Food_Business_website/blob/master/index.html"><strong>Explore the docs »</strong></a>
     <br />
@@ -28,7 +28,6 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -73,18 +72,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -97,8 +84,6 @@ Project Link: [https://github.com/TedMur](https://github.com/TedMur)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
