@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img width="300" alt="screenshot" src="https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png" align=rihgt>
+<img width="350" alt="project-screenshot" src="https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png">
 
 
 Here's a blank template to get started:
@@ -106,5 +106,5 @@ Project Link: [https://github.com/TedMur](https://github.com/TedMur)
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tatsuya-tad-murao
-[product-screenshot]: images/screenshot.png
-
+[product-screenshot]: https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png
+[product-url]: https://www.youtube.com
