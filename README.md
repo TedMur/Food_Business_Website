@@ -27,7 +27,6 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
-* [Usage](#usage)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -74,8 +73,6 @@ Project Link: [https://github.com/TedMur](https://github.com/TedMur)
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tatsuya-tad-murao
 [product-screenshot]: https://user-images.githubusercontent.com/43765928/65654141-65313180-dfdd-11e9-993e-e44a53c41d75.png
