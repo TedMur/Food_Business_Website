@@ -12,7 +12,7 @@
     <a href="https://github.com/TedMur/Food_Business_website/blob/master/index.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://tedmur.github.io/Food_Business_website/">View Demo</a>
+    <a href="https://tedmur.github.io/Food_Business_Website/">View Demo</a>
     <br />
   </p>
 </p>
