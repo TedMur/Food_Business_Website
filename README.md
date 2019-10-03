@@ -7,7 +7,7 @@
   <h1 align="center">Food Business Website</h1>
 
   <p align="center">
-    This is a ongoing fictional restaurant website I built.
+    This is a ongoing fictitious restaurant website I built.
     <br />
     <a href="https://github.com/TedMur/Food_Business_website/blob/master/index.html"><strong>Explore the docs »</strong></a>
     <br />
